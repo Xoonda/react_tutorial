@@ -1,0 +1,11 @@
+.item {
+  color: greenyellow;
+}
+.post__avatar {
+  width: 50px;
+  border-radius: 30px;
+}
+
+.post__like {
+  width: 20px;
+}

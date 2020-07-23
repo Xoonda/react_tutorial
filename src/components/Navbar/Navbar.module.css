@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    background-color: rgba(222, 184, 135, 0.5);
+    padding: 20px;
+}
+
+.item {
+    color: rgb(79, 139, 9);
+    text-shadow:  0 0 2px black;
+}
+
+.item a.active__link {
+    color: gold;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
