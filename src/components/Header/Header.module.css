@@ -1,9 +1,14 @@
 .header {
     grid-area: h;
     background-color: green;
+    display: block;
+    position: relative;
 }
 
 .header img {
-    width: 20px;
+    margin-top: -30px;
+    margin-left: 85px;
+    position: absolute;
+    width: 150px;
 }
 
